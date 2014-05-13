@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">R P S L S</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="player_choices">
+        <item name="rock">Rock</item>
+        <item name="paper">Paper</item>
+        <item name="scissors">Scissors</item>
+        <item name="lizard">Lizard</item>
+        <item name="spock">Spock</item>
+    </string-array>
+
+    <string name="play"> Play </string>
+    <string name="make_choice"> Make your choice</string>
+    <string name="tie"> Its a tie !!!! </string>
+<string name="comp_win"> Sorry you lose </string>
+<string name="player_win"> You won !!!! </string>
+</resources>
